@@ -5,3 +5,69 @@ https://ca-rt.onetv.app/manototv/index-0.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="My Third Channel" group-title="Persian",My Third Channel
 https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pars TV" group-title="Persian",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Channel One" group-title="Persian",Channel One
+https://ch1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="PMC" group-title="Persian",PMC
+https://cdn3.wowza.com/1/ZDBESEcyZ3MyMkVo/YTNwTXZ1/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="PMC Royale" group-title="Persian",PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="MTC" group-title="Persian",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Avang TV" group-title="Persian",Avang TV
+https://www.parsatv.com/m/name=Avang-TV#persian
+#EXTINF:-1 tvg-name="Caltex Music" group-title="Persian",Caltex Music
+https://video.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-name="Sun Music" group-title="Persian",Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Tapesh Iran" group-title="Persian",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-name="T2" group-title="Persian",T2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="MBC Persia" group-title="Persian",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Ariana" group-title="Persian",Ariana
+https://atrihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Iran Nama" group-title="Persian",Iran Nama
+https://hls.ashena.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Khatereh TV" group-title="Persian",Khatereh TV
+https://stella.streamerr.co:3844/live/khaterehtvlive.m3u8
+#EXTINF:-1 tvg-name="FX1" group-title="Persian",FX1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="FX2" group-title="Persian",FX2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="ITN" group-title="Persian",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Grand Cinema" group-title="Persian",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Ava Family" group-title="Persian",Ava Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Newflix" group-title="Persian",Newflix
+https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="4U" group-title="Persian",4U
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="4U+" group-title="Persian",4U+
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Cafe Trade" group-title="Persian",Cafe Trade
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana TV" group-title="Persian",Persiana TV
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana One" group-title="Persian",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana Two" group-title="Persian",Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana Iranian" group-title="Persian",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana Cinema" group-title="Persian",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pesiana Family" group-title="Persian",Pesiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Cafe Film" group-title="Persian",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Aljazeera Arabic" group-title="News",Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-name="Alarabiya News" group-title="News",Alarabiya News
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News Arabia" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
