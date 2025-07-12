@@ -3,7 +3,7 @@
 https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 tvg-name="BBC Persian" group-title="Persian",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="My Third Channel" group-title="Persian",My Third Channel
+#EXTINF:-1 tvg-name="Channel Jadid" group-title="Persian",My Third Channel
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pars TV" group-title="Persian",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
